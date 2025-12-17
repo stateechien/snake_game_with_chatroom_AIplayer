@@ -168,5 +168,4 @@ AI Player 被視為一個**純決策模組**：
 ```bash
 npm install
 
-```bash
 npm start
