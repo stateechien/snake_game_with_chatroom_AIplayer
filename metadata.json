@@ -1,0 +1,5 @@
+{
+  "name": "Snake.io 100 - Battle Royale",
+  "description": "A massive multiplayer-style Snake game simulation supporting 100 concurrent agents. Features a live AI-powered chatroom where bots react to the game state using Gemini.",
+  "requestFramePermissions": []
+}
